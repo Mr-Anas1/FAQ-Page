@@ -1,1 +1,2 @@
-# FAQ-Page using HTML, CSS and JS.
+# FAQ-Page 
+FAQ page using HTML, CSS and JS.
