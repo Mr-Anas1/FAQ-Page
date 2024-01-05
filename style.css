@@ -87,3 +87,9 @@ button:hover {
 .btn.active .btn-plus {
     display: none;
 }
+
+@media screen and (max-width:400px) {
+    .container {
+        width: 300px;
+    }
+}
