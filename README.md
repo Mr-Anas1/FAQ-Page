@@ -1,2 +1,2 @@
 # FAQ Page 
-FAQ page using HTML, CSS and JS.
+FAQ page using React js
